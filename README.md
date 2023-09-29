@@ -9,7 +9,7 @@ A real estate web app built using nextjs v11 and Bayut API
 
 ### Clone the repo
 ```bash
-git clone https://github.com/raffyamoguis/movie-library-app.git
+git clone https://github.com/raffyamoguis/movie-library-app.git](https://github.com/raffyamoguis/realestater.git
 cd movie-library-app
 ```
 
